@@ -1,6 +1,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="nnlmdfoeicjomjnnmcnchnffeenlplob">
-    <updatecheck codebase="https://hannaskolan.github.io/extension-update/RensaWebbdata_v1.0.6.crx" version="1.0.6"/>
+    <updatecheck codebase="https://hannaskolan.github.io/extension-update/RensaWebbdata_v1.0.7.crx" version="1.0.7"/>
   </app>
 </gupdate>
+
 
